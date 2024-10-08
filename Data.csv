@@ -1,0 +1,11 @@
+﻿Country;Age;Salary;Purchased
+Indonesia;44;72000;No
+Portugal;27;48000;Yes
+Germany;30;54000;No
+Portugal;38;61000;No
+Germany;40;;Yes
+Indonesia;35;58000;Yes
+Portugal;;52000;No
+Indonesia;48;79000;Yes
+Germany;50;83000;No
+Indonesia;37;67000;Yes
